@@ -5,6 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=9B5CFF&center=true&vCenter=true&width=600&lines=Creative+Developer;Video+Editor;Photographer;Informatics+Student" />
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LyxzFlawless/LyxzFlawless/gh-pages/github-contribution-grid-snake.svg"/>
+
+</div>
 
 
 # 👋 Hey, I'm Darell
