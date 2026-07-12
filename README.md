@@ -35,6 +35,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LyxzFlawless&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?LyxzFlawless=LyxzFlawless&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyxzFlawless&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LyxzFlawless=LyxzFlawless&layout=compact&theme=tokyonight)
