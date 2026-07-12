@@ -36,8 +36,8 @@ focus:
   - Photography
 
 currently_learning:
-  - JavaScript
-  - Backend Development
+  - Affinity
+  - Front End Development
   - Creative Coding
 
 
