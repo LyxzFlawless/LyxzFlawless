@@ -1,40 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Video+Editor;Photographer)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=LyxzFlawless&color=blueviolet)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LyxzFlawless&theme=tokyonight)
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,github,figma" />
-</p>
-# Hi 👋 I'm Darell Randy
+<div align="center">
 
-### 💻 Informatics Student
-### 🎥 Video Editor
-### 📸 Photographer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=DARELL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=9B5CFF&center=true&vCenter=true&width=600&lines=Creative+Developer;Video+Editor;Photographer;Informatics+Student" />
 
-## 🚀 About Me
+</div>
 
-- 🌱 Currently learning Python & Web Development
-- 🎬 Passionate about cinematic editing
-- 📷 Love photography
-- 🎮 Sometimes playing Valorant
+
+# 👋 Hey, I'm Darell
+
+<div align="center">
+
+### 💻 Creative Developer × 🎥 Visual Creator × 📸 Photographer
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧬 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```yaml
+name: Darell Randy
+alias: Daeva
+role: Informatics Student
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+focus:
+  - Python Development
+  - Web Development
+  - Video Editing
+  - Photography
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?LyxzFlawless=LyxzFlawless&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LyxzFlawless=LyxzFlawless&layout=compact&theme=tokyonight)
+currently_learning:
+  - JavaScript
+  - Backend Development
+  - Creative Coding
