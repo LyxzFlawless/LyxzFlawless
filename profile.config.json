@@ -1,69 +1,77 @@
+
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Darell Randy Pramudianto",
+    "username": "LyxzFlawless",
+    "headline": "Informatics Student & Creative Developer",
+    "affiliation": "Universitas Esa Unggul",
+    "location": "Tangerang, Indonesia",
+    "status": "Learning / Creating / Building",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I’m an Informatics student who combines software development, UI/UX design, and visual creativity to build functional, intuitive, and visually engaging digital experiences.",
+      "I enjoy turning ideas into reality through code and design, combining logical problem-solving with visual storytelling to create digital projects that are both functional and engaging."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Creative Development",
+    "direction": "Human-Centered Digital Products",
+    "themes": "Code, UI/UX & Visual Design",
+    "narrative": "I’m interested in building digital experiences that combine software engineering, thoughtful UI/UX design, and visual creativity to solve real-world problems in intuitive and engaging ways."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Development",
+      "description": "Building practical applications and software solutions through programming, problem-solving, and continuous experimentation."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "UI/UX Design",
+      "description": "Designing intuitive user interfaces and engaging user experiences by combining visual aesthetics, usability, and user-centered thinking."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Graphic Design",
+      "description": "Creating compelling visual designs through thoughtful composition, typography, color theory, and consistent visual identity."
+    },
+    {
+      "name": "Video Editing",
+      "description": "Editing video content through pacing, storytelling, sound design, and visual techniques to create engaging and polished results."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Flawless Prison",
+      "url": "https://github.com/LyxzFlawless/FlawlessPrison",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Game Development",
+      "summary": "A Python-based 2D game built with Pygame, featuring interactive gameplay, challenges, and a boss battle. This project explores game development fundamentals, programming logic, and interactive design.",
+      "heroLabel": "2D Game Development"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Cinema Ticket",
+      "url": "https://github.com/LyxzFlawless/Film",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "C++ Application Development",
+      "summary": "A C++ console-based cinema ticket booking system that allows users to select movies, choose ticket quantities, calculate total prices, and repeat bookings through an interactive menu.",
+      "heroLabel": "Cinema Ticket Booking"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "C++",
+    "Java",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "SQL",
+    "SQLite",
+    "Git",
+    "GitHub",
+    "Pygame"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "LyxzFlawless",
+      "url": "https://github.com/LyxzFlawless",
       "logo": "github",
-      "color": "0B1220"
+      "color": "A855F7"
     }
   ],
   "activity": {
@@ -73,5 +81,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building ideas through code, design, and creativity."
 }
